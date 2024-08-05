@@ -72,5 +72,5 @@ The script also is forced to scape duplicates so the facility index may not matc
 Implement more robust error handling and logging.
 Add support for other web browsers.
 Optimize the script for faster data extraction.
-License
-This project is licensed under the MIT License.
+
+### With permission from CatchCorner
