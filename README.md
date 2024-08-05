@@ -67,6 +67,7 @@ The script includes error handling to manage exceptions like TimeoutException, S
 Ensure that the webpage structure and class names have not changed, as this may affect the script's ability to locate elements.
 This script will crash at times since there can be server-side issues with web scraping as well.
 The script also is forced to scape duplicates so the facility index may not match up to your original assumption.
+Be wary of the legal issues of web scraping for commercial use.
 
 ## Future Enhancements
 Implement more robust error handling and logging.
